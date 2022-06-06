@@ -1,4 +1,4 @@
-# Welcome to Hungovercoders 👋
+# Welcome to Dogadopt 👋
 
 ![Dogadopt](https://github.com/dogadopt/.github/blob/main/profile/logo.png)
 
