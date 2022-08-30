@@ -13,6 +13,8 @@
 * Provide any services that can make it easier for animal rescues to collaborate and share data
 * Highlight the situation with dogs in rescue in the UK and ensure people know how many dogs need a home
 * Distribute help and raise awareness equally or proportionately across dog rescues in the UK
+* Use good data to highlight the number of resuces and dogs waiting for a forever home
+* Open source rescude and dog data to assist the tech community promote the welfare of dogs
 
 ## Objectives
 
