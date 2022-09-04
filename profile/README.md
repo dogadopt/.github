@@ -19,14 +19,14 @@
 ## Work Management
 
 [Teams](https://github.com/orgs/dogadopt/teams):
-- The first component of the organisational hierarchy below the github organisation.
-- All repositories a team owns should be added to ensure that all codebases have **ownership**.
+- Teams is the first component of the organisational hierarchy below the github organisation.
+- All repositories each team owns should be added to ensure that all codebases have **ownership**.
 - Within the discussions area of each team there should be a pinned discussion declaring the teams **mission**.
 - Within the discussions area of each team there should be a pinned discussion declaring the teams current **objectives** and **key results**.
 
 [Project](https://github.com/orgs/dogadopt/projects):
-- Each project maps to a team and allows them to function in the most effective manner for their area. 
-- Each projects ReadMe should be kept up to date to state how that team works within that project.
+- Each project maps to a team and allows them to create the most effective **workflows** for that specific team.
+- Each projects ReadMe should be kept up to date to demonstrate the teams **ways of working**.
 - Within each project iterations should be created that map to **hypotheses**.
 - Currently there is an outstanding **[issue](https://github.com/community/community/discussions/31678)**  signifying thre is no way to make a team own one of the new projects in github.
 
