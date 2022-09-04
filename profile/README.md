@@ -16,20 +16,6 @@
 * Use good data to highlight the number of resuces and dogs waiting for a forever home
 * Open source rescude and dog data to assist the tech community promote the welfare of dogs
 
-## Work Management
-
-[Teams](https://github.com/orgs/dogadopt/teams):
-- Teams is the first component of the organisational hierarchy below the github organisation.
-- All repositories each team owns should be added to ensure that all codebases have **ownership**.
-- Within the discussions area of each team there should be a pinned discussion declaring the teams **mission**.
-- Within the discussions area of each team there should be a pinned discussion declaring the teams current **objectives** and **key results**.
-
-[Project](https://github.com/orgs/dogadopt/projects):
-- Each project maps to a team and allows them to create the most effective **workflows** for that specific team.
-- Each projects ReadMe should be kept up to date to demonstrate the teams **ways of working**.
-- Within each project iterations should be created that map to **hypotheses**.
-- Currently there is an outstanding **[issue](https://github.com/community/community/discussions/31678)**  signifying thre is no way to make a team own one of the new projects in github.
-
 ## Objectives
 
 ### Provide a website that directs people to an approved animal rescue dog sites
@@ -85,6 +71,22 @@
 * If we create a daily dogs in rescue banner on dog adopt people will click on it to find out more
 * If we create news feed or email subscriptions to a dog in resce status report ACDH will subscribe to it
 * If we create news feed or email subscriptions to a dog in resce status report dog rescues will subscribe to it
+
+## Work Management
+
+Currently there s only a single person and single team working within dog adopt. Below represents the best practices that dop adopt would adhere to using githubs work management tools if there were a need for multiple teams. 
+
+[Teams](https://github.com/orgs/dogadopt/teams):
+- Teams is the first component of the organisational hierarchy below the github organisation.
+- All repositories each team owns should be added to ensure that all codebases have **ownership**.
+- Within the discussions area of each team there should be a pinned discussion declaring the teams **mission**.
+- Within the discussions area of each team there should be a pinned discussion declaring the teams current **objectives** and **key results**.
+
+[Project](https://github.com/orgs/dogadopt/projects):
+- Each project maps to a team and allows them to create the most effective **workflows** for that specific team.
+- Each projects ReadMe should be kept up to date to demonstrate the teams **ways of working**.
+- Within each project iterations should be created that map to **hypotheses**.
+- Currently there is an outstanding **[issue](https://github.com/community/community/discussions/31678)**  signifying thre is no way to make a team own one of the new projects in github.
 
 <!--
 
