@@ -74,7 +74,11 @@
 
 ## Work Management
 
-Currently there s only a single person and single team working within dog adopt. Below represents the best practices that dop adopt would adhere to using githubs work management tools if there were a need for multiple teams. 
+Currently there s only a single person and single team working within dog adopt. Most of the objectives and hypotheses are therefore visible on this page.
+There is also only a single project to manage work. 
+Ideas are posted on [discussions](https://github.com/orgs/dogadopt/discussions) for the whole organisation.
+
+Below represents the best practices that dog adopt would adhere to using githubs work management tools if there were a need for multiple teams. 
 
 [Teams](https://github.com/orgs/dogadopt/teams):
 - Teams is the first component of the organisational hierarchy below the github organisation.
