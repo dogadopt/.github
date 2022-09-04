@@ -22,6 +22,7 @@
 - The first component of the organisational hierarchy below the github organisation.
 - All repositories a team owns should be added to ensure that all codebases have **ownership**.
 - Within the discussions area of each team there should be a pinned discussion declaring the teams **mission**.
+- Within the discussions area of each team there should be a pinned discussion declaring the teams **way of working**.
 
 [Project](https://github.com/orgs/dogadopt/projects):
 - Each project maps to a team and allows them to function in the most effective manner for their area. 
