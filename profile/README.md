@@ -5,7 +5,7 @@
 ## Work Management
 
 [Teams](https://github.com/orgs/dogadopt/teams):
-- The first component of the organisational hierarchy.
+- The first component of the organisational hierarchy below the github organisation.
 - Within teams the repositories owned by that team should be declared under the repositories tab.
 - Within the discussions area of each team there should be a pinned discussion declaring the teams mission.
 
