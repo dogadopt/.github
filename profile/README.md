@@ -7,10 +7,10 @@
 - [Teams](https://github.com/orgs/dogadopt/teams)
 Teams allow the ability to declare repository ownership and so all codebases are owned.
 Within the discussions area of teams there should be a pinned discussion declaring the teams mission.
- - [Work Management](https://github.com/orgs/dogadopt/projects)
- Each project under work management maps to a team and allows them to function in the most effective manner for their area. 
- Each project ReadMe should be kept up to date to state how that team works. 
- **[Issue](https://github.com/community/community/discussions/31678):** Currently there is no way to make a team own one of the new projects in github.
+  - [Work Management](https://github.com/orgs/dogadopt/projects)
+  Each project under work management maps to a team and allows them to function in the most effective manner for their area. 
+  Each project ReadMe should be kept up to date to state how that team works. 
+  **[Issue](https://github.com/community/community/discussions/31678):** Currently there is no way to make a team own one of the new projects in github.
  
  
 ## Mission
