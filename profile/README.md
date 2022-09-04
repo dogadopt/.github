@@ -25,7 +25,7 @@
 
 [Project](https://github.com/orgs/dogadopt/projects):
 - Each project maps to a team and allows them to function in the most effective manner for their area. 
-- Each projects ReadMe should be kept up to date to state how that team works within that project and what their objectives are.
+- Each projects ReadMe should be kept up to date to state how that team works within that project and what their **objectives** are.
 - Within each project iterations should be created that map to **hypotheses**.
 - Currently there is an outstanding **[issue](https://github.com/community/community/discussions/31678)**  signifying thre is no way to make a team own one of the new projects in github.
 
